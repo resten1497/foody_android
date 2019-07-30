@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:textViewStyle">@style/DefaultTextView</item>
+        <item name="android:buttonStyle">@style/DefaultButton</item>
+        <item name="android:editTextStyle">@style/DefaultEditText</item>
+    </style>
+
+    <style name="DefaultTextView" parent="@android:style/Widget.DeviceDefault.TextView">
+        <item name="android:fontFamily">@font/BMYEONSUNG_ttf</item>
+    </style>
+    <style name="DefaultButton" parent="@android:style/Widget.DeviceDefault.Button">
+        <item name="android:fontFamily">@font/BMYEONSUNG_ttf</item>
+    </style>
+    <style name="DefaultEditText" parent="@android:style/Widget.DeviceDefault.EditText">
+        <item name="android:fontFamily">@font/BMYEONSUNG_ttf</item>
+    </style>
+</resources>

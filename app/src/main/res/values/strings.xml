@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">푸디</string>
+    <string name="find">찾기</string>
+
+    <string name="WillFindU">터치하면 근처식당을 찾아드릴께요</string>
+
+    <string name="Server_url">http://10.0.2.2:3000</string>
+    <string name="Weather_url">http://10.0.2.2:3000</string>
+</resources>
