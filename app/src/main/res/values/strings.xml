@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">푸디</string>
-    <string name="find">찾기</string>
 
-    <string name="WillFindU">터치하면 근처식당을 찾아드릴께요</string>
+    <string name="onChecking">잠시만요</string>
+    <string name="onCheckingSub">데이터를 확인중이에요</string>
+
+    <string name="noPermission">권한이 필요해요</string>
+    <string name="noPermissionSub">터치하시면 권한요청을 해드릴께요</string>
+
+    <string name="WillFindU">근처식당을 찾아드릴께요</string>
+    <string name="WillFindUSub">터치만 하세요!</string>
 
     <string name="Server_url">http://10.0.2.2:3000</string>
     <string name="Weather_url">http://10.0.2.2:3000</string>
